@@ -19,7 +19,7 @@ The notebook uses only basic data libraries:
 - scipy
 
 ### Project Motivation <a name="motivation"></a>
-While exploring the Starbucks dataset, I tried a different method of dealing with missing data.\ 
+While exploring the Starbucks dataset, I tried a different method of dealing with missing data.\
 Noticing that some of the customer demographic data was missing. I classified them into a "High Security" group (contain customers that refused to reveal personal information) and compared them with the other group called "Low Security".\
 The questions that I want to answer are:
 - Are there any difference in purchase volume between 2 groups?
@@ -30,7 +30,7 @@ And from there, I proposed some suggestions for business improvement.
 Data cleaning and analysis can be found in the notebook and the data that I used for this exercise can also be found in this repository.
 
 ### Results <a name="results"></a>
-The findings of this project has been published [here](https://mainguyenudacity.wordpress.com/2022/01/07/starbucks-understand-the-hiding-customers/).\  
+The findings of this project has been published [here](https://mainguyenudacity.wordpress.com/2022/01/07/starbucks-understand-the-hiding-customers/).\
 You can also find my notes on the project limitation and future research recommendation in the notebook.
 
 ### Acknowledgements <a name="acknowledgements"></a>
