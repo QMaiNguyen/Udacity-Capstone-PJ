@@ -17,13 +17,16 @@ The notebook uses only basic data libraries:
 - matplotlib
 - seaborn
 - scipy
+- scikitlearn
 
 ### Project Motivation <a name="motivation"></a>
 While exploring the Starbucks dataset, I tried a different method of dealing with missing data.\
-Noticing that some of the customer demographic data was missing. I classified them into a "High Security" group (contain customers that refused to reveal personal information) and compared them with the other group called "Low Security".\
+Noticing that some of the customer demographic data was missing. I classified them into a "Information Hiding" group (contain customers that refused to reveal personal information) and compared them with the other group called "Information Provided".\
 The questions that I want to answer are:
 - Are there any difference in purchase volume between 2 groups?
 - Are there any difference in offer responsiveness between 2 groups?
+
+After defining the importance of the "Hiding" feature, I used Linear Regression to see how well the feature help to predict Customer Volume.\
 And from there, I proposed some suggestions for business improvement.
 
 ### File Description <a name="file"></a>
